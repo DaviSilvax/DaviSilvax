@@ -1,6 +1,6 @@
-# Olá, Eu sou o Davi Silva 👋🏻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=950AF7&width=435&lines=Ol%C3%A1%2C+Me+chamo+Davi+Silva;Sou+um+desenvolvedor+aprendiz;Estou+aprendendo+nodejs+e+html)](https://git.io/typing-svg)
 
-![Davi Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EuDaviS&show_icons=true&theme=radical)
+![DaviSilvax GitHub stats](https://github-readme-stats.vercel.app/api?username=davisilvax&show_icons=true&theme=dark)
 
 [![DISCORD](https://camo.githubusercontent.com/409a013b774366388ba2c178ac0e78a5fdbdb1f44fd4764656f4c26afcbf6395/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d2532333538363566323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.com/users/1015364770557341716)
 
