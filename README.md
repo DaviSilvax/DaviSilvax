@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+me+chamo+Davi+Silva;Sou+um+programador+aprendiz;Estou+aprendendo+HTML%2C+JAVA+SCRIPT+e+NODEJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=791DF7&width=435&lines=Ol%C3%A1%2C+me+chamo+Davi+Silva;Sou+um+programador+aprendiz;Estou+aprendendo+HTML%2C+JAVA+SCRIPT+e+NODEJS)](https://git.io/typing-svg)
 
 ![DaviSilvax GitHub stats](https://github-readme-stats.vercel.app/api?username=davisilvax&show_icons=true&theme=dark)
 
